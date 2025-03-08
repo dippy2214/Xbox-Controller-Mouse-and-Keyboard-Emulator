@@ -1,0 +1,17 @@
+C:\Users\joshu\OneDrive\Desktop\HID device\HID connection\HID connection\bin\Release\net8.0\HID connection.exe
+C:\Users\joshu\OneDrive\Desktop\HID device\HID connection\HID connection\bin\Release\net8.0\HID connection.deps.json
+C:\Users\joshu\OneDrive\Desktop\HID device\HID connection\HID connection\bin\Release\net8.0\HID connection.runtimeconfig.json
+C:\Users\joshu\OneDrive\Desktop\HID device\HID connection\HID connection\bin\Release\net8.0\HID connection.dll
+C:\Users\joshu\OneDrive\Desktop\HID device\HID connection\HID connection\bin\Release\net8.0\HID connection.pdb
+C:\Users\joshu\OneDrive\Desktop\HID device\HID connection\HID connection\bin\Release\net8.0\Input.dll
+C:\Users\joshu\OneDrive\Desktop\HID device\HID connection\HID connection\obj\Release\net8.0\HID connection.csproj.AssemblyReference.cache
+C:\Users\joshu\OneDrive\Desktop\HID device\HID connection\HID connection\obj\Release\net8.0\HID connection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\OneDrive\Desktop\HID device\HID connection\HID connection\obj\Release\net8.0\HID connection.AssemblyInfoInputs.cache
+C:\Users\joshu\OneDrive\Desktop\HID device\HID connection\HID connection\obj\Release\net8.0\HID connection.AssemblyInfo.cs
+C:\Users\joshu\OneDrive\Desktop\HID device\HID connection\HID connection\obj\Release\net8.0\HID connection.csproj.CoreCompileInputs.cache
+C:\Users\joshu\OneDrive\Desktop\HID device\HID connection\HID connection\obj\Release\net8.0\HID conn.7AFD3800.Up2Date
+C:\Users\joshu\OneDrive\Desktop\HID device\HID connection\HID connection\obj\Release\net8.0\HID connection.dll
+C:\Users\joshu\OneDrive\Desktop\HID device\HID connection\HID connection\obj\Release\net8.0\refint\HID connection.dll
+C:\Users\joshu\OneDrive\Desktop\HID device\HID connection\HID connection\obj\Release\net8.0\HID connection.pdb
+C:\Users\joshu\OneDrive\Desktop\HID device\HID connection\HID connection\obj\Release\net8.0\HID connection.genruntimeconfig.cache
+C:\Users\joshu\OneDrive\Desktop\HID device\HID connection\HID connection\obj\Release\net8.0\ref\HID connection.dll

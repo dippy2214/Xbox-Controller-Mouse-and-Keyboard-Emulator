@@ -1,0 +1,6 @@
+C:\Users\joshu\OneDrive\Desktop\Xbox controller input project\HID connection.exe
+C:\Users\joshu\OneDrive\Desktop\Xbox controller input project\HID connection.dll
+C:\Users\joshu\OneDrive\Desktop\Xbox controller input project\HID connection.deps.json
+C:\Users\joshu\OneDrive\Desktop\Xbox controller input project\HID connection.runtimeconfig.json
+C:\Users\joshu\OneDrive\Desktop\Xbox controller input project\HID connection.pdb
+C:\Users\joshu\OneDrive\Desktop\Xbox controller input project\Input.dll
